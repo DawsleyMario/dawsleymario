@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸: 😄 This description is under development and will be updated as my programming knowledge develops.
+
+## Olá, pessoal 👋
+
+🇧🇷: 😄 Essa descrição está em processo de desenvolvimento e será atualizada a medida que meus conhecimentos em programação forem se desenvolvendo também.
+
 <!--
 **DawsleyMario/dawsleymario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
