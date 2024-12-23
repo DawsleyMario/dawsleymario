@@ -1,14 +1,14 @@
-## Hi there 👋
+# <center> Hi, there![Mario gif](https://media.tenor.com/sUw4F9FfLGAAAAAj/super-mario-mario-run.gif) <br >It's Me, Mario! 
+<center>This description is under development <br> and will be updated as my programming knowledge develops. 😄 
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸: 😄 This description is under development and will be updated as my programming knowledge develops.
+<br>
 
+![dawsleymario's Stats](https://github-readme-stats.vercel.app/api?username=dawsleymario&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
+![dawsleymario's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawsleymario&theme=kacho_ga&hide_border=true)
+![dawsleymario's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawsleymario&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
 
-## Olá, pessoal 👋
-
-🇧🇷: 😄 Essa descrição está em processo de desenvolvimento e será atualizada a medida que meus conhecimentos em programação forem se desenvolvendo também.
-## Status
-<div>
-<a href="https://github.com/dawsleymario">
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawsleymario&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=dawsleymario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<style>
+  img:not(:first-child) {
+    width: 33em;
+  }
+</style>
